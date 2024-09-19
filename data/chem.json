@@ -1,0 +1,1466 @@
+{
+    "type": "FeatureCollection",
+    "features":
+    [
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.430332655,
+                    51.97671577
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW202-000",
+                "distance_from_pond": 3534,
+                "substance": "chroom",
+                "value": 0.358,
+                "color": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.280906672,
+                    51.923575224
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW021-003",
+                "distance_from_pond": 9856,
+                "substance": "chroom",
+                "value": 0.360,
+                "color": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.41955007,
+                    51.939459064
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW062-008",
+                "distance_from_pond": 5871,
+                "substance": "chroom",
+                "value": 0.386,
+                "color": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.447386606,
+                    51.985284643
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_KRW_WL05_ADMIN",
+                "distance_from_pond": 4529,
+                "substance": "chroom",
+                "value": 0.396,
+                "color": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.393508809,
+                    51.987179021
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW221A013",
+                "distance_from_pond": 827,
+                "substance": "chroom",
+                "value": 0.418,
+                "color": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.39380956,
+                    51.988718636
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_KRW_WL04_ADMIN",
+                "distance_from_pond": 875,
+                "substance": "chroom",
+                "value": 0.433,
+                "color": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.394915052,
+                    51.961123469
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_KRW_WL01B_ADMIN",
+                "distance_from_pond": 2991,
+                "substance": "chroom",
+                "value": 0.450,
+                "color": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.4114859,
+                    51.949163225
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW062-012",
+                "distance_from_pond": 4657,
+                "substance": "chroom",
+                "value": 0.451,
+                "color": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.430332655,
+                    51.97671577
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW202_000",
+                "distance_from_pond": 3534,
+                "substance": "chroom",
+                "value": 0.452,
+                "color": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.4114859,
+                    51.949163225
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW062_012",
+                "distance_from_pond": 4657,
+                "substance": "chroom",
+                "value": 0.457,
+                "color": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.280906672,
+                    51.923575224
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW021_003",
+                "distance_from_pond": 9856,
+                "substance": "chroom",
+                "value": 0.465,
+                "color": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.33081345,
+                    51.95401229
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_KRW_WL06_ADMIN",
+                "distance_from_pond": 5036,
+                "substance": "chroom",
+                "value": 0.476,
+                "color": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.298698475,
+                    52.010699878
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW004_001",
+                "distance_from_pond": 6282,
+                "substance": "chroom",
+                "value": 0.478,
+                "color": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.362585234,
+                    52.01078797
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW069_000",
+                "distance_from_pond": 2978,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.308882799,
+                    51.942172608
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_KRW_WL02B_ADMIN",
+                "distance_from_pond": 7032,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.298698475,
+                    52.010699878
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW004-001",
+                "distance_from_pond": 6282,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.256168612,
+                    52.016285469
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW014_000",
+                "distance_from_pond": 9215,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.322975023,
+                    51.943451586
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW026_000",
+                "distance_from_pond": 6272,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.37086743,
+                    51.99178563
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW062-002",
+                "distance_from_pond": 924,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.37086743,
+                    51.99178563
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW062_002",
+                "distance_from_pond": 924,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.427698397,
+                    52.065834911
+                ]
+            },
+            "properties":
+            {
+                "location": "NL13_ROP24740",
+                "distance_from_pond": 9358,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.303732382,
+                    51.915715773
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW102_020",
+                "distance_from_pond": 9537,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.245822017,
+                    51.973497182
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW110-000",
+                "distance_from_pond": 9437,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.28167778,
+                    51.955457291
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW114-000",
+                "distance_from_pond": 7690,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.252428448,
+                    51.952832561
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW116-012",
+                "distance_from_pond": 9637,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.261850724,
+                    51.982038287
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW117-001",
+                "distance_from_pond": 8236,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.351952506,
+                    51.928114618
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW124-011",
+                "distance_from_pond": 6827,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.454511782,
+                    51.991282858
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW202_322",
+                "distance_from_pond": 5041,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.454545194,
+                    51.997377442
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW202_332",
+                "distance_from_pond": 5156,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.379352239,
+                    52.021107976
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW203-111",
+                "distance_from_pond": 3831,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.379352239,
+                    52.021107976
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW203_111",
+                "distance_from_pond": 3831,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.347037701,
+                    52.030462832
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW207_002",
+                "distance_from_pond": 5414,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.363882739,
+                    51.990961047
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW208_001",
+                "distance_from_pond": 1300,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.361012868,
+                    51.994846173
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW208_015",
+                "distance_from_pond": 1674,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.355652929,
+                    52.025918415
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW209_000",
+                "distance_from_pond": 4711,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.444821574,
+                    52.039456748
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW210_003",
+                "distance_from_pond": 7304,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.397635622,
+                    52.010629443
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW212_000",
+                "distance_from_pond": 2884,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.422209571,
+                    52.016694098
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW213B000",
+                "distance_from_pond": 4353,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.37650481,
+                    52.029784645
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW215_026",
+                "distance_from_pond": 4806,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.39734699,
+                    51.931337111
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW216-002",
+                "distance_from_pond": 6255,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.401016475,
+                    51.956266916
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW217_000",
+                "distance_from_pond": 3642,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.339303677,
+                    52.004740284
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW219-000",
+                "distance_from_pond": 3525,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.357411564,
+                    52.03815849
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW220_010",
+                "distance_from_pond": 5959,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.378538971,
+                    51.984741527
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW221A000",
+                "distance_from_pond": 298,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.409038656,
+                    51.942644002
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW227_011",
+                "distance_from_pond": 5254,
+                "substance": "chroom",
+                "value": 0.500,
+                "color": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.287825956,
+                    52.044783338
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW401_003",
+                "distance_from_pond": 9117,
+                "substance": "chroom",
+                "value": 0.502,
+                "color": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.484264474,
+                    52.00685852
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW202_100",
+                "distance_from_pond": 7406,
+                "substance": "chroom",
+                "value": 0.505,
+                "color": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.273721025,
+                    51.941323506
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW103-000",
+                "distance_from_pond": 8964,
+                "substance": "chroom",
+                "value": 0.507,
+                "color": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.299616,
+                    51.960874077
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW105-000",
+                "distance_from_pond": 6318,
+                "substance": "chroom",
+                "value": 0.507,
+                "color": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.312587463,
+                    52.006153317
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW120-000",
+                "distance_from_pond": 5204,
+                "substance": "chroom",
+                "value": 0.508,
+                "color": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.382671143,
+                    51.975743164
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW208_000",
+                "distance_from_pond": 1222,
+                "substance": "chroom",
+                "value": 0.510,
+                "color": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.326494316,
+                    51.95086326
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW111_000",
+                "distance_from_pond": 5494,
+                "substance": "chroom",
+                "value": 0.515,
+                "color": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.322975023,
+                    51.943451586
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW026-000",
+                "distance_from_pond": 6272,
+                "substance": "chroom",
+                "value": 0.518,
+                "color": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.326494316,
+                    51.95086326
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW111-000",
+                "distance_from_pond": 5494,
+                "substance": "chroom",
+                "value": 0.526,
+                "color": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.426544118,
+                    52.027884485
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW210_002",
+                "distance_from_pond": 5528,
+                "substance": "chroom",
+                "value": 0.527,
+                "color": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.292286519,
+                    52.023925904
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW411_014",
+                "distance_from_pond": 7395,
+                "substance": "chroom",
+                "value": 0.528,
+                "color": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.38873536,
+                    52.021754222
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW214_000",
+                "distance_from_pond": 3932,
+                "substance": "chroom",
+                "value": 0.528,
+                "color": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.410056828,
+                    51.978733369
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW201_015",
+                "distance_from_pond": 2153,
+                "substance": "chroom",
+                "value": 0.548,
+                "color": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.342663295,
+                    52.033696011
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW412_001",
+                "distance_from_pond": 5869,
+                "substance": "chroom",
+                "value": 0.553,
+                "color": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.361137121,
+                    52.044770753
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW220_000",
+                "distance_from_pond": 6611,
+                "substance": "chroom",
+                "value": 0.558,
+                "color": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.392033035,
+                    52.003166508
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW221A023",
+                "distance_from_pond": 1970,
+                "substance": "chroom",
+                "value": 0.560,
+                "color": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.319743005,
+                    51.985184574
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW113-001",
+                "distance_from_pond": 4246,
+                "substance": "chroom",
+                "value": 0.562,
+                "color": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.31590069,
+                    52.018659994
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW407A000",
+                "distance_from_pond": 5739,
+                "substance": "chroom",
+                "value": 0.563,
+                "color": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.357235121,
+                    52.071810652
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW413_000",
+                "distance_from_pond": 9615,
+                "substance": "chroom",
+                "value": 0.580,
+                "color": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.244496079,
+                    51.990698139
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW312_000",
+                "distance_from_pond": 9422,
+                "substance": "chroom",
+                "value": 0.580,
+                "color": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.322235889,
+                    52.062277042
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW409A002",
+                "distance_from_pond": 9341,
+                "substance": "chroom",
+                "value": 0.587,
+                "color": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.391003415,
+                    51.967571314
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW201_000",
+                "distance_from_pond": 2226,
+                "substance": "chroom",
+                "value": 0.595,
+                "color": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.410056828,
+                    51.978733369
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW201-015",
+                "distance_from_pond": 2153,
+                "substance": "chroom",
+                "value": 0.617,
+                "color": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.444821574,
+                    52.039456748
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW210-003",
+                "distance_from_pond": 7304,
+                "substance": "chroom",
+                "value": 0.617,
+                "color": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.395435976,
+                    51.958619993
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW211-000",
+                "distance_from_pond": 3268,
+                "substance": "chroom",
+                "value": 0.632,
+                "color": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.316303146,
+                    51.953036091
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW106-000",
+                "distance_from_pond": 5840,
+                "substance": "chroom",
+                "value": 0.643,
+                "color": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.283634665,
+                    51.992438043
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW108-000",
+                "distance_from_pond": 6753,
+                "substance": "chroom",
+                "value": 0.717,
+                "color": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    4.307861852,
+                    52.010658421
+                ]
+            },
+            "properties":
+            {
+                "location": "NL15_OW119-000",
+                "distance_from_pond": 5717,
+                "substance": "chroom",
+                "value": 1.237,
+                "color": 3
+            }
+        }
+    ]
+}
