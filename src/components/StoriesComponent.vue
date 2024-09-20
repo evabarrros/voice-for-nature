@@ -13,7 +13,7 @@
     </div>
     <div class="video-wrap">
     <video controls="true">
-      <source src="./stories/history/timelapse.mp4" type="video/mp4">
+      <source src="https://github.com/openearth/voice-for-nature/raw/refs/heads/main/src/components/stories/history/timelapse.mp4" type="video/mp4">
     </video>
   </div>
     <div class="history" md="12">
