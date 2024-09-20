@@ -45,8 +45,12 @@ export default {
    top: 0;
    z-index: 2;
    width: 30vw;
-   min-width: 150px;
+   min-width: 500px;
    display: block;
    justify-content: right;
+}
+
+.video-wrap video{
+  width: 100%;
 }
 </style>
