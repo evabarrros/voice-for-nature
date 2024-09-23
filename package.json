@@ -16,6 +16,7 @@
     "intersection-observer": "^0.12.2",
     "markdown-loader": "^8.0.0",
     "roboto-fontface": "*",
+    "talkjs": "^0.26.0",
     "three": "^0.168.0",
     "vue": "^3.2.13",
     "vue-3d-loader": "^2.2.4",

@@ -4,36 +4,29 @@
     :debug="true"
     :offset="0.5"
   >
-  <v-card class="pa-3 ma-3" outlined color="rgba(0, 0, 0, 0.5)">
+  <v-card class="pa-3 text" outlined color="rgba(0, 0, 0, 0.5)" theme="dark">
     <h2>
       Deltapond
     </h2>
-    <div class="history" md="12">
-      <div class="history-markdown" v-html="content" />
+    <div class="history" md="12" color="white">
+      <div v-for="chapter in chapters" :key="chapter.name" v-html="chapter.text" />
     </div>
-    <div class="video-wrap">
-    <video controls="true">
-      <source src="https://github.com/openearth/voice-for-nature/raw/refs/heads/main/src/components/stories/history/timelapse.mp4" type="video/mp4">
-    </video>
-  </div>
-    <div class="history" md="12">
-      <div class="history-markdown" v-html="content2" />
-    </div>
-
-
   </v-card>
   </Scrollama>
 </template>
 <script>
-import content from './stories/history/text.md'
-import content2 from './stories/history/text2.md'
-
+let files = require.context('./stories', true, /.md$/)
+const filenames = files.keys()
+const chapters = []
+filenames.forEach(file => {
+  const name = /(?<=\/)(.*?)(?=\.)/g.exec(file)
+  chapters.push({ name: name, text: files(file).default })
+})
 export default {
   name: 'BackgroundViewer',
   data () {
     return {
-      content,
-      content2,
+      chapters
     }
   }
 }
@@ -44,10 +37,14 @@ export default {
    position: sticky;
    top: 0;
    z-index: 2;
-   width: 30vw;
-   min-width: 500px;
    display: block;
    justify-content: right;
+   max-height: 100vh;
+}
+
+.text {
+  height: 80vh;
+  overflow-y: scroll;
 }
 
 .video-wrap video{
