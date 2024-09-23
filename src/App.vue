@@ -2,7 +2,7 @@
   <v-app>
     <v-main>
       <background-viewer />
-      <v-card class="ma-3 information" outlined color="rgba(0, 0, 0, 0.5)" theme="dark">
+      <v-card class="ma-3 information" :height="folded? '300px' : '100%'" outlined color="rgba(0, 0, 0, 0.5)" theme="dark">
         <v-tabs
           v-model="tab"
           align-tabs="title"
@@ -14,8 +14,8 @@
             :value="item"
           ></v-tab>
         </v-tabs>
-        <v-tabs-window v-model="tab">
-          <v-tabs-window-item value="text">
+        <v-tabs-window class="rel-height" v-model="tab">
+          <v-tabs-window-item class="rel-height" value="text">
             <stories-component class="ma-3"/>
           </v-tabs-window-item>
           <v-tabs-window-item value="chat">
@@ -23,6 +23,8 @@
           </v-tabs-window-item>
         </v-tabs-window>
       </v-card>
+      <v-btn class="ma-3" :icon="folded ? 'mdi-chevron-down' : 'mdi-chevron-up'" @click="folded= !folded"></v-btn>
+
     </v-main>
   </v-app>
 </template>
@@ -43,7 +45,8 @@ export default {
 
   data: () => ({
     tabs: ["text", "chat"],
-    tab: "text"
+    tab: "text",
+    folded: true
   }),
 
   mounted () {
@@ -54,16 +57,16 @@ export default {
 <style>
 html {
   height: 100vh;
-}
-
-.v-main__wrap{
-  display: flex;
-  justify-content: right;
+  overflow-y: hidden;
 }
 
 .information {
-  max-height: 90vh;
   width: 30vw;
   min-width: 500px;
+  max-height: 90vh;
+}
+
+.rel-height {
+  height: 100%;
 }
 </style>

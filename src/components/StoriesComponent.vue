@@ -39,11 +39,12 @@ export default {
    z-index: 2;
    display: block;
    justify-content: right;
+   height: 100%;
    max-height: 100vh;
 }
 
 .text {
-  height: 80vh;
+  height: 100%;
   overflow-y: scroll;
 }
 
