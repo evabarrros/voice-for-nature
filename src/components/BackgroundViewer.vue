@@ -5,18 +5,36 @@
       <OrbitControls :target="currentLocation.position" :enablePan="false" :enableZoom="false"/>
       <TresGridHelper />
       <Suspense>
-        <Environment 
+        <TresMesh :position="[20, 0, 20]" :look-at="currentLocation.camera">
+          <Text3D :font="fontPath" text="Chat" @click="$router.push('/chat')" :size="1" />
+        </TresMesh>
+      </Suspense>
+      <Suspense>
+        <TresMesh :position="[100, 0, 100]" :look-at="currentLocation.camera">
+          <Text3D :font="fontPath" text="Measurements" @click="$router.push('/stories/measurements')" :size="1" />
+        </TresMesh>
+      </Suspense>
+      <Suspense>
+        <TresMesh :position="[50, 0, 200]" :look-at="currentLocation.camera">
+          <Text3D :font="fontPath" text="History" @click="$router.push('/stories/history')" :size="1" />
+        </TresMesh>
+      </Suspense>
+      <Suspense>
+        <TresMesh :position="[50, 20, 50]" :look-at="currentLocation.camera">
+          <Text3D :font="fontPath" text="Birds" @click="$router.push('/stories/birds')" :size="1" />
+        </TresMesh>
+      </Suspense>
+      <Suspense>
+        <Environment
           ref = "env"
           :background="true"
-          :files="`./360photos/${currentLocation.id}.hdr`"
+          :files="`../360photos/${currentLocation.id}.hdr`"
         />
       </Suspense>
       <TresScene
         ref="scene">
         <TresDirectionalLight
           :position="[0, 8, 4]"
-          :intensity="0.2"
-          cast-shadow
         />
         <TresMesh
           v-for="location in locations"
@@ -37,19 +55,22 @@
 </template>
 
 <script>
-import { OrbitControls, Environment } from '@tresjs/cientos'
+import { OrbitControls, Environment, Text3D} from '@tresjs/cientos'
 import { TresCanvas } from '@tresjs/core'
+
 export default {
   name: 'BackgroundViewer',
 
   components: {
     TresCanvas,
     OrbitControls,
-    Environment
+    Environment,
+    Text3D
   },
   data () {
     return {
-      currentId: "loc7_other",
+      fontPath: 'https://raw.githubusercontent.com/Tresjs/assets/main/fonts/FiraCodeRegular.json',
+      currentId: "loc1_road",
       locations: [
         {
           id: "loc1_road",

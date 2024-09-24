@@ -12,40 +12,31 @@
             :key="item"
             :text="item"
             :value="item"
+            :to="`./${item}`"
           ></v-tab>
         </v-tabs>
-        <v-tabs-window class="rel-height" v-model="tab">
-          <v-tabs-window-item class="rel-height" value="text">
-            <stories-component class="ma-3"/>
-          </v-tabs-window-item>
-          <v-tabs-window-item value="chat">
-            <chat-box />
-          </v-tabs-window-item>
+        <v-tabs-window class="rel-height">
+            <router-view></router-view>
         </v-tabs-window>
       </v-card>
       <v-btn class="ma-3" :icon="folded ? 'mdi-chevron-down' : 'mdi-chevron-up'" @click="folded= !folded"></v-btn>
-
     </v-main>
   </v-app>
 </template>
 
 <script>
-import StoriesComponent from '@/components/StoriesComponent.vue'
 import BackgroundViewer from '@/components/BackgroundViewer.vue'
-import ChatBox from '@/components/ChatBox.vue'
 
 export default {
   name: 'App',
 
   components: {
-    StoriesComponent,
-    BackgroundViewer,
-    ChatBox
+    BackgroundViewer
   },
 
   data: () => ({
-    tabs: ["text", "chat"],
-    tab: "text",
+    tabs: ["stories", "chat"],
+    tab: "stories",
     folded: true
   }),
 
